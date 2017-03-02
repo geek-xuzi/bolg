@@ -19,10 +19,18 @@ tags:
 
 ## 技术
 
-  - Android客户端
+  - **Android客户端**
 
-      开发环境：Mac os、AndroidStudio
-  - 后台管理系统
+      - **开发环境**
+          - Mac Os
+          - AndroidStudio
+  - **后台管理系统**
+
+      - **开发环境**
+          - IntelliJ IDEA
+          - Centos
+          - Maven
+
 ## 问题
   - 车辆详细配置时，有超过100项以上的参数需要配置。如果手动录入参数，是一个耗时耗力的工程。
 
